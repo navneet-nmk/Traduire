@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Traduire</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="takePictureButton">Take Picture</string>
+    <string name="translatebutton">Translate</string>
+    <string name="take_photo_text">Take a Photo</string>
+
+</resources>
